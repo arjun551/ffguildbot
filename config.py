@@ -1,7 +1,7 @@
 # config.py
 
 # Guild Settings
-TARGET_GUILD_ID = "3046346194"  # REPLACE THIS with your Guild ID
+TARGET_GUILD_ID = "3032646723"  # REPLACE THIS with your Guild ID
 TARGET_GUILD_NAME = "UCHIHA SEPT"
 
 # Game Settings
